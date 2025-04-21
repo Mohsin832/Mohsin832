@@ -13,14 +13,12 @@
 
 - 💬 Ask me about **Dart and flutter**
 
-- 📫 How to reach me **manasraza18@gmail.com**
+- 📫 How to reach me **mm8116900@gmail.com**
 
-- ⚡ Fun fact **chill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/muhammad_anasraza_6035c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammad_anasraza_6035c2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-anas-raza-882327259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-anas-raza-882327259/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mohammad-anas-raza-882327259/](https://www.linkedin.com/in/muhammad-mohsin-8441a3247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-anas-raza-882327259/" height="30" width="40" /></a>
 <a href="https://codepen.io/muhammad-anas-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad-anas-raza" height="30" width="40" /></a>
 <a href="https://codesandbox.com/manasraza18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="manasraza18" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadanasraza18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadanasraza18" height="30" width="40" /></a>
