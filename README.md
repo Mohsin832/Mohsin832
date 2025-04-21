@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas Raza</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
 <h3 align="center">A passionate Application developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mikalyh/mikalyh/main/assets/ngoding.gif">
