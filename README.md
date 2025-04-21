@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mikalyh/mikalyh/main/assets/ngoding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasraza18&label=Profile%20views&color=0e75b6&style=flat" alt="anasraza18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasraza18&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin832" /> </p>
 
 - 🔭 I’m currently working on **Flutter application project**
 
